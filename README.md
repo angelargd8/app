@@ -1,2 +1,3 @@
-# lab6-el que si es
+# lab6-el que no es
  
+:(
